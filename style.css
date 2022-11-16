@@ -701,9 +701,6 @@ header section .profile_post_follow_bx .post_follow_bx .follow_bx .you_should_fo
     }
 }
 @media (max-width: 1440px) {
-    header section .profile_post_follow_bx {
-        left: -3%;
-    }
     header aside {
         display: none;
     }
@@ -784,13 +781,13 @@ header section .profile_post_follow_bx .post_follow_bx .follow_bx .you_should_fo
         width: 403px;
     }
     header section .profile_post_follow_bx .post_follow_bx {
-        width: 100%;
-        margin-right: 5px;
+        width: 117%;
+        margin-right: -41px;
     }
     header section .profile_post_follow_bx {
         top: 6%;
         left: -3px;
-        height: auto;
+        height: 100%;
         width: 89%;
     }
     header section .profile_post_follow_bx .post_follow_bx .post .post_main_bx .post_card_bx .content .image_post_bx img {
